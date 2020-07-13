@@ -4,8 +4,11 @@ Molecules
 In this abstraction from a molecular engineering problem associated with developing a synthetic fuel, we are given four equal-length molecular chains that are to form a super molecule. In the simplified two-dimensional model used here, the super molecule is formed as an interlocking rectangular arrangement of the four given molecular chain strands. The interlocking feature is the sharing of a common molecule between pairs of chains. To illustrate, suppose we have the four length-twelve molecular chains:
 
 O I M D I H E I A F N L
+
 C H J D B J M H P J K D
+
 L C B J O J G I E K B O
+
 K A I N L H L O L B E J
 These can be placed in the interlocking arrangements:
 
